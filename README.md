@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CyberSilviu
 - 👀 I’m interested in music
-- 🌱 I’m currently learning physics informatics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently started my master's degree in physics for advanced technologies 
 
 <!---
 CyberSilviu/CyberSilviu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
