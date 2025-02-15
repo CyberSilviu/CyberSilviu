@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CyberSilviu
 - 👀 I’m interested in music
-- 🌱 I’m currently started my master's degree in physics for advanced technologies 
+- 🌱 Computer Science and ICT Teacher 
+- 🤖 Mentor at the MironoBot Robotics Team
 
 <!---
 CyberSilviu/CyberSilviu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
